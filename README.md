@@ -1,5 +1,5 @@
 # ToolTipWithPictureOrGif
-ToolTip extension ,shown picture or gif
+ToolTip扩展,用于在悬浮的时候显示图片
 
 * How to use it
 ```C#
